@@ -15,5 +15,6 @@ This script is designed to run on a Raspberry Pi with an attached USB microphone
 5. Add this value as the SINK_NAME variable
 6. Change the THRESHOLD variable to account for background noise, etc. (optional)
 7. Change the EVENT_NAME and TRACKERS variables to match the settings in your Instapush application.
-8. Change the WAIT_TIME variable to set the minimum time between notifications, in seconds (optional)9. Run the script:
+8. Change the WAIT_TIME variable to set the minimum time between notifications, in seconds (optional)
+9. Run the script:
 `python baby-monitor.py`
